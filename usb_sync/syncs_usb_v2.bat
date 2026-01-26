@@ -5,13 +5,13 @@ title USB Sync + Git Auto Push
 REM ==== CONFIG ====
 set USB_DRIVE=G:
 
-set SRC_APPS=C:\Aplikacje
+set SRC_APPS=E:\Aplikacje
 set DST_APPS=G:\Pliki\Inne\Instalki
 
-set SRC_AHK=C:\Autohotkey
+set SRC_AHK=E:\Autohotkey
 set DST_AHK=G:\Pliki\Inne\AutoHotkey
 
-set SRC_SCRIPTS=C:\Scripts
+set SRC_SCRIPTS=E:\Scripts
 set DST_SCRIPTS=G:\Pliki\Inne\Scripts
 
 set SRC_DB=G:\Pliki\Technik Programista\Bazy Danych
@@ -26,9 +26,21 @@ set DST_PY=E:\Pliki\Projects\python
 set SRC_WEB=G:\Pliki\Technik Programista\Strony internetowe
 set DST_WEB=E:\Pliki\Projects\websites
 
+set SRC_BHP=G:\Pliki\Technik Programista\BHP
+set DST_BHP=E:\Pliki\Projects\BHP
+
+set SRC_POD_INF=G:\Pliki\Technik Programista\Podstawy Informatyki
+set DST_POD_INF=E:\Pliki\Projects\Podstawy informatyki
+
+set SRC_INF=G:\Pliki\Technik Programista\Informatyka
+set DST_INF=E:\Pliki\Projects\Informatyka
+
+set SRC_PRZYGOT=G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty
+set DST_PRZYGOT=E:\Pliki\Projects\Przygotowanie do zawodu programisty
+
 set GIT_ROOT=E:\Pliki\Projects
 
-set LOGDIR=C:\Scripts\logs
+set LOGDIR=E:\Scripts\logs
 set LOGFILE=%LOGDIR%\usb_sync.log
 
 if not exist "%LOGDIR%" mkdir "%LOGDIR%"
@@ -46,18 +58,18 @@ if not exist %USB_DRIVE%\ (
 
 echo [%time%] USB detected >> "%LOGFILE%"
 
-REM ==== LOCAL TO USB BACKUP (C: -> G:) ====
-echo [%time%] Syncing LOCAL to USB... >> "%LOGFILE%"
-robocopy "%SRC_APPS%" "%DST_APPS%" /E /R:3 /W:5 >> "%LOGFILE%"
+REM ==== LOCAL TO USB BACKUP (E: -> G:) - MIRROR MODE ====
+echo [%time%] Syncing LOCAL to USB (MIRROR MODE - exact copy)... >> "%LOGFILE%"
+robocopy "%SRC_APPS%" "%DST_APPS%" /MIR /R:3 /W:5 >> "%LOGFILE%"
 if errorlevel 8 echo [%time%] ERROR: Apps sync failed >> "%LOGFILE%"
 
-robocopy "%SRC_AHK%" "%DST_AHK%" /E /R:3 /W:5 >> "%LOGFILE%"
+robocopy "%SRC_AHK%" "%DST_AHK%" /MIR /R:3 /W:5 >> "%LOGFILE%"
 if errorlevel 8 echo [%time%] ERROR: AutoHotkey sync failed >> "%LOGFILE%"
 
-robocopy "%SRC_SCRIPTS%" "%DST_SCRIPTS%" /E /R:3 /W:5 >> "%LOGFILE%"
+robocopy "%SRC_SCRIPTS%" "%DST_SCRIPTS%" /MIR /R:3 /W:5 >> "%LOGFILE%"
 if errorlevel 8 echo [%time%] ERROR: Scripts sync failed >> "%LOGFILE%"
 
-REM ==== USB TO LOCAL BACKUP (G: -> E:) ====
+REM ==== USB TO LOCAL BACKUP (G: -> E:) - STANDARD MODE ====
 echo [%time%] Syncing USB to LOCAL... >> "%LOGFILE%"
 robocopy "%SRC_DB%" "%DST_DB%" /E /R:3 /W:5 >> "%LOGFILE%"
 if errorlevel 8 echo [%time%] ERROR: Database sync failed >> "%LOGFILE%"
@@ -70,6 +82,18 @@ if errorlevel 8 echo [%time%] ERROR: Python sync failed >> "%LOGFILE%"
 
 robocopy "%SRC_WEB%" "%DST_WEB%" /E /R:3 /W:5 >> "%LOGFILE%"
 if errorlevel 8 echo [%time%] ERROR: Web sync failed >> "%LOGFILE%"
+
+robocopy "%SRC_BHP%" "%DST_BHP%" /E /R:3 /W:5 >> "%LOGFILE%"
+if errorlevel 8 echo [%time%] ERROR: BHP sync failed >> "%LOGFILE%"
+
+robocopy "%SRC_POD_INF%" "%DST_POD_INF%" /E /R:3 /W:5 >> "%LOGFILE%"
+if errorlevel 8 echo [%time%] ERROR: Podstawy Informatyki sync failed >> "%LOGFILE%"
+
+robocopy "%SRC_INF%" "%DST_INF%" /E /R:3 /W:5 >> "%LOGFILE%"
+if errorlevel 8 echo [%time%] ERROR: Informatyka sync failed >> "%LOGFILE%"
+
+robocopy "%SRC_PRZYGOT%" "%DST_PRZYGOT%" /E /R:3 /W:5 >> "%LOGFILE%"
+if errorlevel 8 echo [%time%] ERROR: Przygotowanie do zawodu programisty sync failed >> "%LOGFILE%"
 
 echo [%time%] Backup finished >> "%LOGFILE%"
 

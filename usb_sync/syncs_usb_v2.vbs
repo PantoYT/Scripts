@@ -4,7 +4,7 @@ Option Explicit
 Dim shell, batFilePath
 
 ' Path to your batch file
-batFilePath = "C:\Scripts\usb_sync\syncs_usb_v2.bat"
+batFilePath = "E:\Scripts\usb_sync\syncs_usb_v2.bat"
 
 ' Create shell object
 Set shell = CreateObject("WScript.Shell")
