@@ -20776,3 +20776,1966 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 [18:23:32.63] WARNING: Git commit failed for E:\Pliki\Projects\websites 
+======================================= 
+START 26/01/2026 21:44:23.42 
+[21:44:26.17] USB detected 
+[21:44:28.24] Syncing LOCAL to USB (MIRROR MODE - exact copy)... 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:28
+   Source : E:\Aplikacje\
+     Dest = G:\Pliki\Inne\Instalki\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                  48	E:\Aplikacje\
+	                   3	E:\Aplikacje\22.180_230206\
+	                   6	E:\Aplikacje\Ahk2Exe112207\
+	                  17	E:\Aplikacje\musescore-downloader-0.5.12-manifest-v3\
+	                   0	E:\Aplikacje\RGB_Fusion_B24.1202.1\
+	                   1	E:\Aplikacje\RGB_Fusion_B24.1202.1\B24.1202.1\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         0         6         0         0         0
+   Files :        75         0        75         0         0         0
+   Bytes :  14.675 g         0  14.675 g         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:28
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:28
+   Source : E:\Autohotkey\
+     Dest = G:\Pliki\Inne\AutoHotkey\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   5	E:\Autohotkey\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         5         0         5         0         0         0
+   Bytes :     4.7 k         0     4.7 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:29
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:29
+   Source : E:\Scripts\
+     Dest = G:\Pliki\Inne\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   4	E:\Scripts\
+	                   7	E:\Scripts\.git\
+	    Newer     		       8	COMMIT_EDITMSG100%  
+	    Newer     		      94	FETCH_HEAD100%  
+	    Newer     		    2044	index100%  
+	                  14	E:\Scripts\.git\hooks\
+	                   1	E:\Scripts\.git\info\
+	                   1	E:\Scripts\.git\logs\
+	    Newer     		    1358	HEAD100%  
+	                   0	E:\Scripts\.git\logs\refs\
+	                   1	E:\Scripts\.git\logs\refs\heads\
+	    Newer     		    1358	main100%  
+	                   0	E:\Scripts\.git\logs\refs\remotes\
+	                   2	E:\Scripts\.git\logs\refs\remotes\origin\
+	    Newer     		    1078	HEAD100%  
+	    Newer     		     961	main100%  
+	                   0	E:\Scripts\.git\objects\
+	                   1	E:\Scripts\.git\objects\02\
+	                   1	E:\Scripts\.git\objects\04\
+	                   1	E:\Scripts\.git\objects\05\
+	  New Dir          1	E:\Scripts\.git\objects\08\
+	    New File  		    1353	b04ed814025d3fa073ff070bef44f4905b2134100%  
+	                   2	E:\Scripts\.git\objects\10\
+	                   1	E:\Scripts\.git\objects\18\
+	                   1	E:\Scripts\.git\objects\20\
+	                   1	E:\Scripts\.git\objects\24\
+	                   1	E:\Scripts\.git\objects\28\
+	                   1	E:\Scripts\.git\objects\2e\
+	  New Dir          1	E:\Scripts\.git\objects\3e\
+	    New File  		     106	b95c035f22424af995089f5ddc2ac479f271bd100%  
+	                   1	E:\Scripts\.git\objects\3f\
+	                   1	E:\Scripts\.git\objects\41\
+	                   1	E:\Scripts\.git\objects\49\
+	                   1	E:\Scripts\.git\objects\4c\
+	                   1	E:\Scripts\.git\objects\4f\
+	                   1	E:\Scripts\.git\objects\51\
+	                   1	E:\Scripts\.git\objects\55\
+	  New Dir          1	E:\Scripts\.git\objects\5b\
+	    New File  		     161	bb9b2dfa303f37d4bbb225b161e999a530fea4100%  
+	                   1	E:\Scripts\.git\objects\5e\
+	  New Dir          1	E:\Scripts\.git\objects\64\
+	    New File  		  152115	b452d65af546e5d240d65e1d98329308f93c55100%  
+	                   2	E:\Scripts\.git\objects\67\
+	                   1	E:\Scripts\.git\objects\6a\
+	  New Dir          1	E:\Scripts\.git\objects\72\
+	    New File  		     235	ff4ec44a02e30dd3253f50d3eb42f8eff7dc37100%  
+	                   1	E:\Scripts\.git\objects\76\
+	                   1	E:\Scripts\.git\objects\78\
+	                   1	E:\Scripts\.git\objects\7b\
+	                   2	E:\Scripts\.git\objects\7d\
+	    New File  		     296	fc380f0ad38dca26f78a0b97bfffb91641d69a100%  
+	                   1	E:\Scripts\.git\objects\85\
+	                   1	E:\Scripts\.git\objects\8f\
+	                   1	E:\Scripts\.git\objects\90\
+	                   1	E:\Scripts\.git\objects\92\
+	                   1	E:\Scripts\.git\objects\93\
+	  New Dir          1	E:\Scripts\.git\objects\98\
+	    New File  		     107	36ff312335b801a4ba8a9eaa6215da9d1028a2100%  
+	                   1	E:\Scripts\.git\objects\9b\
+	                   1	E:\Scripts\.git\objects\9f\
+	                   1	E:\Scripts\.git\objects\a0\
+	                   1	E:\Scripts\.git\objects\a1\
+	                   1	E:\Scripts\.git\objects\a4\
+	                   1	E:\Scripts\.git\objects\a7\
+	  New Dir          1	E:\Scripts\.git\objects\a8\
+	    New File  		     140	7bf1f55b8332c5da653396ff2473b59c961d77100%  
+	                   1	E:\Scripts\.git\objects\ad\
+	                   1	E:\Scripts\.git\objects\b4\
+	  New Dir          1	E:\Scripts\.git\objects\b6\
+	    New File  		      57	98ba0a01e0defa9f297dd790fe3401cc90e5ce100%  
+	                   1	E:\Scripts\.git\objects\b9\
+	                   1	E:\Scripts\.git\objects\bf\
+	                   1	E:\Scripts\.git\objects\c0\
+	                   1	E:\Scripts\.git\objects\c4\
+	                   1	E:\Scripts\.git\objects\c6\
+	                   1	E:\Scripts\.git\objects\ca\
+	                   1	E:\Scripts\.git\objects\cd\
+	                   1	E:\Scripts\.git\objects\d2\
+	                   1	E:\Scripts\.git\objects\d9\
+	                   1	E:\Scripts\.git\objects\dc\
+	                   2	E:\Scripts\.git\objects\df\
+	                   1	E:\Scripts\.git\objects\e0\
+	                   2	E:\Scripts\.git\objects\e6\
+	                   1	E:\Scripts\.git\objects\eb\
+	                   1	E:\Scripts\.git\objects\f1\
+	                   1	E:\Scripts\.git\objects\f2\
+	                   1	E:\Scripts\.git\objects\f9\
+	  New Dir          1	E:\Scripts\.git\objects\fd\
+	    New File  		     298	226fcfca755ce742f3005800f240b229ddc47d100%  
+	                   0	E:\Scripts\.git\objects\info\
+	                   0	E:\Scripts\.git\objects\pack\
+	                   0	E:\Scripts\.git\refs\
+	                   1	E:\Scripts\.git\refs\heads\
+	    Newer     		      41	main100%  
+	                   0	E:\Scripts\.git\refs\remotes\
+	                   2	E:\Scripts\.git\refs\remotes\origin\
+	    Newer     		      30	HEAD100%  
+	    Newer     		      41	main100%  
+	                   0	E:\Scripts\.git\refs\tags\
+	                   1	E:\Scripts\autohotkey\
+	                   8	E:\Scripts\led\
+	    New File  		     109	led_off.vbs100%  
+	    New File  		     108	led_on.vbs100%  
+	                   3	E:\Scripts\led\__pycache__\
+	                   1	E:\Scripts\logs\
+	    Newer     		   1.4 m	usb_sync.log 67%  100%  
+	                   4	E:\Scripts\usb_sync\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        84         9        75         0         0         0
+   Files :       117        23        94         0         0         0
+   Bytes :   90.28 m    1.62 m   88.65 m         0         0         0
+   Times :   0:00:01   0:00:01                       0:00:00   0:00:00
+
+
+   Speed :           1,640,750 Bytes/sec.
+   Speed :              93.885 MegaBytes/min.
+   Ended : 26 January 2026 21:44:30
+
+[21:44:30.89] Syncing USB to LOCAL... 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:30
+   Source = G:\Pliki\Technik Programista\Bazy Danych\
+     Dest : E:\Pliki\Projects\databases\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Bazy Danych\
+	*EXTRA Dir        -1	E:\Pliki\Projects\databases\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\databases\kasyno\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     251	README.md
+	                   0	G:\Pliki\Technik Programista\Bazy Danych\klasa1\
+	                   3	G:\Pliki\Technik Programista\Bazy Danych\klasa1\firma\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\ksi©garnia internetowa\
+	                   2	G:\Pliki\Technik Programista\Bazy Danych\klasa1\magazyn\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\pracownicy\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\sklep\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\sklep_muzyczny\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\szkolenia\
+	                   2	G:\Pliki\Technik Programista\Bazy Danych\klasa1\tworzenie tabeli uczen zawieraj¥c¥ pola\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        10         0        10         0         0         2
+   Files :        12         0        12         0         0         2
+   Bytes :   733.7 k         0   733.7 k         0         0       317
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:31
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:31
+   Source = G:\Pliki\Technik Programista\Programowanie\cpp\
+     Dest : E:\Pliki\Projects\cpp\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\
+	*EXTRA Dir        -1	E:\Pliki\Projects\cpp\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\cpp\choinka\
+	*EXTRA Dir        -1	E:\Pliki\Projects\cpp\zwierzak\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     254	README.md
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.1 Pozycyjne systemy liczbowe - zmiana systemu z dziesi©tnego na dw¢jkowy\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\obj\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Dodatkowe Zadania Wprowadzaj¥ce AiSD (RND)\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 2\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\obj\Debug\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Nieustaj¥ca Akademia Programowania - Edycja 2024 i 2025\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Nieustaj¥ca Akademia Programowania - Edycja 2024 i 2025\.vscode\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\bin\Debug\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\bin\Release\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\obj\Debug\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\obj\Release\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 4. R¢wnanie kwadratowe\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\template-umcs\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       299         0       299         0         0         3
+   Files :       339         0       339         0         0         2
+   Bytes :   11.24 m         0   11.24 m         0         0       320
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:02
+   Ended : 26 January 2026 21:44:33
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:33
+   Source = G:\Pliki\Technik Programista\Programowanie\python\
+     Dest : E:\Pliki\Projects\python\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Programowanie\python\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Choinkonatoinator\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Generator_Haseˆ\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\GRARPG\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Kalkulator\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Kostka\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Logowanie\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Matryce\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\QUIZ\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Wisielec\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Zamianoinator\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Zgadywator\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     257	README.md
+	                   0	G:\Pliki\Technik Programista\Programowanie\python\klasa1\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\klasa1\2026.01.14\
+	                   1	G:\Pliki\Technik Programista\Programowanie\python\klasa1\.vscode\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.10.02\
+	                   6	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.10.09\
+	                   2	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.10.23\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.06\
+	                   2	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.13\
+	                   3	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.20 - sprawdzian1\
+	                   7	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.27\
+	                   3	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.12.17\
+	                   3	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.9.25\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2026.01.07\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2026.01.21\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        14         0        14         0         0        13
+   Files :        47         0        47         0         0         2
+   Bytes :    12.2 k         0    12.2 k         0         0       323
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:33
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:33
+   Source = G:\Pliki\Technik Programista\Strony internetowe\
+     Dest : E:\Pliki\Projects\websites\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\
+	*EXTRA Dir        -1	E:\Pliki\Projects\websites\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\websites\calculator\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     203	README.md
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\klasa1\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css\img\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css\pliki\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css_zadanie\
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_1\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_2\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_3\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_4\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_5\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_7\
+	                   4	G:\Pliki\Technik Programista\Strony internetowe\klasa1\grafika\
+	                  10	G:\Pliki\Technik Programista\Strony internetowe\klasa1\grafika\galeria\
+	                   9	G:\Pliki\Technik Programista\Strony internetowe\klasa1\grafika\images\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\inf03_2025_06_01\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kartka_˜wi¥teczna\
+	                   4	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kartka_˜wi¥teczna\images\
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\audio\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\obrazy\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\skrypty\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\skrypty\skrypty2\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\video\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\listy\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\Moja Strona\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\opony\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\projekt_nawigacja\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\projekt_nawigacja\obrazy\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\projekt_nawigacja\pliki\
+	                   4	G:\Pliki\Technik Programista\Strony internetowe\klasa1\przychodnia Medica\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\pseudo\
+	                   7	G:\Pliki\Technik Programista\Strony internetowe\klasa1\sklep internetowy\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\szkolenia\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tabele\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie1\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie2\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie3\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie4\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie5\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie6\
+	                   6	G:\Pliki\Technik Programista\Strony internetowe\klasa1\zwierz©ta\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        44         0        44         0         0         2
+   Files :        99         0        99         0         0         2
+   Bytes :   45.16 m         0   45.16 m         0         0       269
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:34
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:34
+   Source = G:\Pliki\Technik Programista\BHP\
+     Dest : E:\Pliki\Projects\BHP\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\BHP\
+	                   3	G:\Pliki\Technik Programista\BHP\Ergonomia postawy podczas pracy\
+	                   5	G:\Pliki\Technik Programista\BHP\Laurka\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         0         3         0         0         0
+   Files :         8         0         8         0         0         0
+   Bytes :    2.37 m         0    2.37 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:34
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:34
+   Source = G:\Pliki\Technik Programista\Podstawy Informatyki\
+     Dest : E:\Pliki\Projects\Podstawy informatyki\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Podstawy Informatyki\
+	                   1	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\
+	                  18	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\prezentacja - facebook\
+	                   2	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\wizyt¢wka - Merry Christmass!\
+	                   3	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\wizyt¢wka - nauczyciel j©zyk¢w obcych\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         0         5         0         0         0
+   Files :        24         0        24         0         0         0
+   Bytes :   75.17 m         0   75.17 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:34
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:34
+   Source = G:\Pliki\Technik Programista\Informatyka\
+     Dest : E:\Pliki\Projects\Informatyka\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Informatyka\
+	                   0	G:\Pliki\Technik Programista\Informatyka\klasa1\
+	                   8	G:\Pliki\Technik Programista\Informatyka\klasa1\Excel\
+	                   0	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\
+	                   1	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\1p\
+	                   1	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\klasa1p\
+	                   1	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\prog1p\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         0         7         0         0         0
+   Files :        11         0        11         0         0         0
+   Bytes :   332.5 k         0   332.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:34
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 26 January 2026 21:44:34
+   Source = G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty\
+     Dest : E:\Pliki\Projects\Przygotowanie do zawodu programisty\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty\
+	                   2	G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty\klasa1\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         0         2         0         0         0
+   Files :         2         0         2         0         0         0
+   Bytes :    29.5 k         0    29.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 26 January 2026 21:44:34
+
+[21:44:34.36] Backup finished 
+[21:44:34.38] GitHub sync start 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\CAVALAD 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\cpp 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\databases 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\Fiszki 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\Fred 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\Portfolio 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\python 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\Qred 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\Relax-Skarpety 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[21:44:34.39] WARNING: Git commit failed for E:\Pliki\Projects\websites 
+[ 0:15:37.16] USB removed 
+[ 0:15:40.11] USB not present 
+[ 0:15:43.18] USB not present 
+[ 0:15:46.13] USB not present 
+[ 0:15:49.20] USB not present 
+[ 0:15:52.15] USB not present 
+[ 0:15:55.21] USB not present 
+[ 0:15:58.17] USB not present 
+[ 0:16:01.12] USB not present 
+[ 0:16:04.19] USB not present 
+[ 0:16:07.15] USB not present 
+[ 0:16:10.18] USB not present 
+[ 0:16:13.13] USB not present 
+[ 0:16:16.18] USB not present 
+[ 0:16:19.12] USB not present 
+[ 0:16:22.18] USB not present 
+[ 0:16:25.12] USB not present 
+[ 0:16:28.17] USB not present 
+[ 0:16:31.11] USB not present 
+[ 0:16:34.16] USB not present 
+[ 0:16:37.21] USB not present 
+[ 0:16:40.15] USB not present 
+[ 0:16:43.21] USB not present 
+[ 0:16:46.14] USB not present 
+[ 0:16:49.19] USB not present 
+[ 0:16:52.13] USB not present 
+[ 0:16:55.18] USB not present 
+[ 0:16:58.11] USB not present 
+[ 0:17:01.16] USB not present 
+[ 0:17:04.11] USB not present 
+[ 0:17:07.16] USB not present 
+[ 0:17:10.21] USB not present 
+[ 0:17:13.14] USB not present 
+[ 0:17:16.19] USB not present 
+[ 0:17:19.14] USB not present 
+[ 0:17:22.18] USB not present 
+[ 0:17:25.12] USB not present 
+[ 0:17:28.17] USB not present 
+[ 0:17:31.13] USB not present 
+[ 0:17:34.19] USB not present 
+[ 0:17:37.14] USB not present 
+[ 0:17:40.19] USB not present 
+[ 0:17:43.14] USB not present 
+[ 0:17:46.20] USB not present 
+[ 0:17:49.15] USB not present 
+[ 0:17:52.19] USB not present 
+[ 0:17:55.13] USB not present 
+[ 0:17:58.17] USB not present 
+[ 0:18:01.10] USB not present 
+[ 0:18:04.15] USB not present 
+[ 0:18:07.20] USB not present 
+[ 0:18:10.19] USB not present 
+[ 0:18:13.19] USB not present 
+[ 0:18:16.17] USB not present 
+[ 0:18:19.15] USB not present 
+[ 0:18:22.14] USB not present 
+[ 0:18:25.16] USB not present 
+[ 0:18:28.18] USB not present 
+[ 0:18:31.21] USB not present 
+[ 0:18:34.13] USB not present 
+[ 0:18:37.19] USB not present 
+[ 0:18:40.15] USB not present 
+[ 0:18:43.16] USB not present 
+[ 0:18:46.20] USB not present 
+[ 0:18:49.15] USB not present 
+[ 0:18:52.19] USB not present 
+[ 0:18:55.13] USB not present 
+[ 0:18:58.19] USB not present 
+[ 0:19:01.18] USB not present 
+[ 0:19:04.15] USB not present 
+[ 0:19:07.19] USB not present 
+[ 0:19:10.13] USB not present 
+[ 0:19:13.18] USB not present 
+[ 0:19:16.21] USB not present 
+[ 0:19:19.14] USB not present 
+[ 0:19:22.19] USB not present 
+[ 0:19:25.11] USB not present 
+[ 0:19:28.14] USB not present 
+[ 0:19:31.17] USB not present 
+[ 0:19:34.20] USB not present 
+[ 0:19:37.14] USB not present 
+[ 0:19:40.19] USB not present 
+[ 0:19:43.12] USB not present 
+[ 0:19:46.18] USB not present 
+[ 0:19:49.13] USB not present 
+[ 0:19:52.18] USB not present 
+[ 0:19:55.12] USB not present 
+[ 0:19:58.17] USB not present 
+[ 0:20:01.11] USB not present 
+[ 0:20:04.15] USB not present 
+[ 0:20:07.20] USB not present 
+[ 0:20:10.13] USB not present 
+[ 0:20:13.18] USB not present 
+[ 0:20:16.11] USB not present 
+[ 0:20:19.12] USB not present 
+[ 0:20:22.16] USB not present 
+[ 0:20:25.21] USB not present 
+[ 0:20:28.15] USB not present 
+[ 0:20:31.20] USB not present 
+[ 0:20:34.14] USB not present 
+[ 0:20:37.19] USB not present 
+[ 0:20:40.12] USB not present 
+[ 0:20:43.17] USB not present 
+[ 0:20:46.21] USB not present 
+[ 0:20:49.14] USB not present 
+[ 0:20:52.19] USB not present 
+[ 0:20:55.14] USB not present 
+[ 0:20:58.17] USB not present 
+[ 0:21:01.19] USB not present 
+[ 0:21:04.10] USB not present 
+[ 0:21:07.16] USB not present 
+[ 0:21:10.19] USB not present 
+[ 0:21:13.21] USB not present 
+[ 0:21:16.15] USB not present 
+[ 0:21:19.19] USB not present 
+[ 0:21:22.13] USB not present 
+[ 0:21:25.17] USB not present 
+[ 0:21:28.18] USB not present 
+[ 0:21:31.13] USB not present 
+[ 0:21:34.16] USB not present 
+[ 0:21:37.19] USB not present 
+[ 0:21:38.30] USB not present 
+[ 0:21:38.33] USB not present 
+[ 0:21:38.36] USB not present 
+[ 0:21:38.38] USB not present 
+[ 0:21:38.41] USB not present 
+[ 0:21:38.43] USB not present 
+[ 0:21:38.44] USB not present 
+[ 0:21:38.45] USB not present 
+[ 0:21:38.46] USB not present 
+[ 0:21:38.47] USB not present 
+[ 0:21:38.48] USB not present 
+[ 0:21:38.48] USB not present 
+[ 0:21:38.50] USB not present 
+[ 0:21:38.52] USB not present 
+[ 0:21:38.53] USB not present 
+[ 0:21:38.54] USB not present 
+[ 0:21:38.55] USB not present 
+[ 0:21:38.56] USB not present 
+[ 0:21:38.56] USB not present 
+[ 0:21:38.59] USB not present 
+[ 0:21:38.60] USB not present 
+[ 0:21:38.60] USB not present 
+[ 0:21:38.61] USB not present 
+[ 0:21:38.63] USB not present 
+[ 0:21:38.64] USB not present 
+[ 0:21:38.65] USB not present 
+[ 0:21:38.66] USB not present 
+[ 0:21:38.66] USB not present 
+[ 0:21:38.67] USB not present 
+[ 0:21:38.67] USB not present 
+[ 0:21:38.69] USB not present 
+[ 0:21:38.71] USB not present 
+[ 0:21:38.71] USB not present 
+[ 0:21:38.72] USB not present 
+[ 0:21:38.74] USB not present 
+[ 0:21:38.74] USB not present 
+[ 0:21:38.75] USB not present 
+[ 0:21:38.77] USB not present 
+[ 0:21:38.77] USB not present 
+[ 0:21:38.79] USB not present 
+[ 0:21:38.79] USB not present 
+[ 0:21:38.80] USB not present 
+[ 0:21:38.82] USB not present 
+[ 0:21:38.82] USB not present 
+[ 0:21:38.84] USB not present 
+[ 0:21:38.85] USB not present 
+[ 0:21:38.85] USB not present 
+[ 0:21:38.86] USB not present 
+[ 0:21:38.86] USB not present 
+[ 0:21:38.88] USB not present 
+[ 0:21:38.88] USB not present 
+[ 0:21:38.90] USB not present 
+[ 0:21:38.91] USB not present 
+[ 0:21:38.91] USB not present 
+[ 0:21:38.93] USB not present 
+[ 0:21:38.94] USB not present 
+[ 0:21:38.94] USB not present 
+[ 0:21:38.94] USB not present 
+[ 0:21:38.96] USB not present 
+[ 0:21:38.96] USB not present 
+[ 0:21:38.98] USB not present 
+[ 0:21:38.99] USB not present 
+[ 0:21:38.99] USB not present 
+[ 0:21:39.01] USB not present 
+[ 0:21:39.01] USB not present 
+[ 0:21:39.02] USB not present 
+[ 0:21:39.02] USB not present 
+[ 0:21:39.04] USB not present 
+[ 0:21:39.05] USB not present 
+[ 0:21:39.05] USB not present 
+[ 0:21:39.07] USB not present 
+[ 0:21:39.07] USB not present 
+[ 0:21:39.09] USB not present 
+[ 0:21:39.09] USB not present 
+[ 0:21:39.10] USB not present 
+[ 0:21:39.10] USB not present 
+[ 0:21:39.12] USB not present 
+[ 0:21:39.13] USB not present 
+[ 0:21:39.14] USB not present 
+[ 0:21:39.15] USB not present 
+[ 0:21:39.15] USB not present 
+[ 0:21:39.17] USB not present 
+[ 0:21:39.17] USB not present 
+[ 0:21:39.18] USB not present 
+[ 0:21:39.18] USB not present 
+[ 0:21:39.20] USB not present 
+[ 0:21:39.20] USB not present 
+[ 0:21:39.21] USB not present 
+[ 0:21:39.21] USB not present 
+[ 0:21:39.23] USB not present 
+[ 0:21:39.24] USB not present 
+[ 0:21:39.25] USB not present 
+[ 0:21:39.26] USB not present 
+[ 0:21:39.26] USB not present 
+[ 0:21:39.28] USB not present 
+[ 0:21:39.28] USB not present 
+[ 0:21:39.29] USB not present 
+[ 0:21:39.29] USB not present 
+[ 0:21:39.31] USB not present 
+[ 0:21:39.31] USB not present 
+[ 0:21:39.32] USB not present 
+[ 0:21:39.34] USB not present 
+[ 0:21:39.34] USB not present 
+[ 0:21:39.36] USB not present 
+[ 0:21:39.36] USB not present 
+[ 0:21:39.37] USB not present 
+[ 0:21:39.37] USB not present 
+[ 0:21:39.39] USB not present 
+[ 0:21:39.39] USB not present 
+[ 0:21:39.40] USB not present 
+[ 0:21:39.40] USB not present 
+[ 0:21:39.42] USB not present 
+[ 0:21:39.44] USB not present 
+[ 0:21:39.44] USB not present 
+[ 0:21:39.45] USB not present 
+[ 0:21:39.45] USB not present 
+[ 0:21:39.47] USB not present 
+[ 0:21:39.47] USB not present 
+[ 0:21:39.48] USB not present 
+[ 0:21:39.48] USB not present 
+[ 0:21:39.50] USB not present 
+[ 0:21:39.50] USB not present 
+[ 0:21:39.52] USB not present 
+[ 0:21:39.52] USB not present 
+[ 0:21:39.54] USB not present 
+[ 0:21:39.55] USB not present 
+[ 0:21:39.55] USB not present 
+[ 0:21:39.56] USB not present 
+[ 0:21:39.56] USB not present 
+[ 0:21:39.58] USB not present 
+[ 0:21:39.58] USB not present 
+[ 0:21:39.59] USB not present 
+[ 0:21:39.59] USB not present 
+[ 0:21:39.61] USB not present 
+[ 0:21:39.63] USB not present 
+======================================= 
+START 27/01/2026 14:39:28.81 
+[14:39:31.13] USB detected 
+[14:39:31.13] Syncing LOCAL to USB (MIRROR MODE - exact copy)... 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:31
+   Source : E:\Aplikacje\
+     Dest = G:\Pliki\Inne\Instalki\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                  48	E:\Aplikacje\
+	                   3	E:\Aplikacje\22.180_230206\
+	                   6	E:\Aplikacje\Ahk2Exe112207\
+	                  17	E:\Aplikacje\musescore-downloader-0.5.12-manifest-v3\
+	                   0	E:\Aplikacje\RGB_Fusion_B24.1202.1\
+	                   1	E:\Aplikacje\RGB_Fusion_B24.1202.1\B24.1202.1\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         0         6         0         0         0
+   Files :        75         0        75         0         0         0
+   Bytes :  14.675 g         0  14.675 g         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:31
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:31
+   Source : E:\Autohotkey\
+     Dest = G:\Pliki\Inne\AutoHotkey\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   5	E:\Autohotkey\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         5         0         5         0         0         0
+   Bytes :     4.7 k         0     4.7 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:31
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:31
+   Source : E:\Scripts\
+     Dest = G:\Pliki\Inne\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   4	E:\Scripts\
+	                   7	E:\Scripts\.git\
+	                  14	E:\Scripts\.git\hooks\
+	                   1	E:\Scripts\.git\info\
+	                   1	E:\Scripts\.git\logs\
+	                   0	E:\Scripts\.git\logs\refs\
+	                   1	E:\Scripts\.git\logs\refs\heads\
+	                   0	E:\Scripts\.git\logs\refs\remotes\
+	                   2	E:\Scripts\.git\logs\refs\remotes\origin\
+	                   0	E:\Scripts\.git\objects\
+	                   1	E:\Scripts\.git\objects\02\
+	                   1	E:\Scripts\.git\objects\04\
+	                   1	E:\Scripts\.git\objects\05\
+	                   1	E:\Scripts\.git\objects\08\
+	                   2	E:\Scripts\.git\objects\10\
+	                   1	E:\Scripts\.git\objects\18\
+	                   1	E:\Scripts\.git\objects\20\
+	                   1	E:\Scripts\.git\objects\24\
+	                   1	E:\Scripts\.git\objects\28\
+	                   1	E:\Scripts\.git\objects\2e\
+	                   1	E:\Scripts\.git\objects\3e\
+	                   1	E:\Scripts\.git\objects\3f\
+	                   1	E:\Scripts\.git\objects\41\
+	                   1	E:\Scripts\.git\objects\49\
+	                   1	E:\Scripts\.git\objects\4c\
+	                   1	E:\Scripts\.git\objects\4f\
+	                   1	E:\Scripts\.git\objects\51\
+	                   1	E:\Scripts\.git\objects\55\
+	                   1	E:\Scripts\.git\objects\5b\
+	                   1	E:\Scripts\.git\objects\5e\
+	                   1	E:\Scripts\.git\objects\64\
+	                   2	E:\Scripts\.git\objects\67\
+	                   1	E:\Scripts\.git\objects\6a\
+	                   1	E:\Scripts\.git\objects\72\
+	                   1	E:\Scripts\.git\objects\76\
+	                   1	E:\Scripts\.git\objects\78\
+	                   1	E:\Scripts\.git\objects\7b\
+	                   2	E:\Scripts\.git\objects\7d\
+	                   1	E:\Scripts\.git\objects\85\
+	                   1	E:\Scripts\.git\objects\8f\
+	                   1	E:\Scripts\.git\objects\90\
+	                   1	E:\Scripts\.git\objects\92\
+	                   1	E:\Scripts\.git\objects\93\
+	                   1	E:\Scripts\.git\objects\98\
+	                   1	E:\Scripts\.git\objects\9b\
+	                   1	E:\Scripts\.git\objects\9f\
+	                   1	E:\Scripts\.git\objects\a0\
+	                   1	E:\Scripts\.git\objects\a1\
+	                   1	E:\Scripts\.git\objects\a4\
+	                   1	E:\Scripts\.git\objects\a7\
+	                   1	E:\Scripts\.git\objects\a8\
+	                   1	E:\Scripts\.git\objects\ad\
+	                   1	E:\Scripts\.git\objects\b4\
+	                   1	E:\Scripts\.git\objects\b6\
+	                   1	E:\Scripts\.git\objects\b9\
+	                   1	E:\Scripts\.git\objects\bf\
+	                   1	E:\Scripts\.git\objects\c0\
+	                   1	E:\Scripts\.git\objects\c4\
+	                   1	E:\Scripts\.git\objects\c6\
+	                   1	E:\Scripts\.git\objects\ca\
+	                   1	E:\Scripts\.git\objects\cd\
+	                   1	E:\Scripts\.git\objects\d2\
+	                   1	E:\Scripts\.git\objects\d9\
+	                   1	E:\Scripts\.git\objects\dc\
+	                   2	E:\Scripts\.git\objects\df\
+	                   1	E:\Scripts\.git\objects\e0\
+	                   2	E:\Scripts\.git\objects\e6\
+	                   1	E:\Scripts\.git\objects\eb\
+	                   1	E:\Scripts\.git\objects\f1\
+	                   1	E:\Scripts\.git\objects\f2\
+	                   1	E:\Scripts\.git\objects\f9\
+	                   1	E:\Scripts\.git\objects\fd\
+	                   0	E:\Scripts\.git\objects\info\
+	                   0	E:\Scripts\.git\objects\pack\
+	                   0	E:\Scripts\.git\refs\
+	                   1	E:\Scripts\.git\refs\heads\
+	                   0	E:\Scripts\.git\refs\remotes\
+	                   2	E:\Scripts\.git\refs\remotes\origin\
+	                   0	E:\Scripts\.git\refs\tags\
+	                   1	E:\Scripts\autohotkey\
+	                   8	E:\Scripts\led\
+	    Newer     		     912	led_off.log100%  
+	    Newer     		    1237	led_off.py100%  
+	    Newer     		     109	led_off.vbs100%  
+	    Newer     		     108	led_on.vbs100%  
+	                   3	E:\Scripts\led\__pycache__\
+	                   1	E:\Scripts\logs\
+	    Newer     		   1.5 m	usb_sync.log 64%  100%  
+	                   4	E:\Scripts\usb_sync\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        84         0        84         0         0         0
+   Files :       117         5       112         0         0         0
+   Bytes :   90.35 m    1.54 m   88.80 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2,725,431 Bytes/sec.
+   Speed :             155.950 MegaBytes/min.
+   Ended : 27 January 2026 14:39:31
+
+[14:39:31.97] Syncing USB to LOCAL... 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:32
+   Source = G:\Pliki\Technik Programista\Bazy Danych\
+     Dest : E:\Pliki\Projects\databases\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Bazy Danych\
+	*EXTRA Dir        -1	E:\Pliki\Projects\databases\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\databases\kasyno\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     251	README.md
+	                   0	G:\Pliki\Technik Programista\Bazy Danych\klasa1\
+	                   3	G:\Pliki\Technik Programista\Bazy Danych\klasa1\firma\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\ksi©garnia internetowa\
+	                   2	G:\Pliki\Technik Programista\Bazy Danych\klasa1\magazyn\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\pracownicy\
+	  New Dir          1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\samochody\
+	    New File  		    4225	samochody.sql100%  
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\sklep\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\sklep_muzyczny\
+	                   1	G:\Pliki\Technik Programista\Bazy Danych\klasa1\szkolenia\
+	                   2	G:\Pliki\Technik Programista\Bazy Danych\klasa1\tworzenie tabeli uczen zawieraj¥c¥ pola\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        11         1        10         0         0         2
+   Files :        13         1        12         0         0         2
+   Bytes :   737.8 k     4.1 k   733.7 k         0         0       317
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:32
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:32
+   Source = G:\Pliki\Technik Programista\Programowanie\cpp\
+     Dest : E:\Pliki\Projects\cpp\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\
+	*EXTRA Dir        -1	E:\Pliki\Projects\cpp\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\cpp\choinka\
+	*EXTRA Dir        -1	E:\Pliki\Projects\cpp\zwierzak\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     254	README.md
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.1 Pozycyjne systemy liczbowe - zmiana systemu z dziesi©tnego na dw¢jkowy\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 2.2 Pozycyjne systemy liczbowe - zmiana pozycyjnego systemu liczbowego z tr¢jkowego na dziesi©tny\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.1 Szyfrowanie - szyfr Cezara - szyfrowanie\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 3.2 Szyfrowanie - szyfr Cezara - deszyfrowanie\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 4.1 Sortowanie - sortowanie b¥belkowe\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 5.1 Wyszukiwanie wzorca w tek˜cie - algorytm naiwny\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 6.1 Algorytmy zachˆanne - wydawanie reszty\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Algorytmy - Kurs podstawowy\Zad 9.1 Stos i kolejka - notacja polska\obj\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Dodatkowe Zadania Wprowadzaj¥ce AiSD (RND)\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 1\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 2\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 3\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Kolokwium testowe\Kolokwium testowe - I - Zadanie 4\obj\Debug\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Nieustaj¥ca Akademia Programowania - Edycja 2024 i 2025\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Nieustaj¥ca Akademia Programowania - Edycja 2024 i 2025\.vscode\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 1. Pierwszy program\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 2. Wypisywanie znak¢w\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 3. Wypisywanie liczb caˆkowitych\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 4. Wypisywanie liczb zmiennoprzecinkowych\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L1. 5. Rozmowa\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 1. Podwojona liczba\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\bin\Debug\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\bin\Release\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\obj\Debug\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 2. Pot©ga\obj\Release\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 3. Dzielenie caˆkowite (bez reszty)\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 4. Pierwiastek kwadratowy\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 5. Zaprzeczenie logiczne\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L2. 6. Trapez\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 1. Najmniejsza\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 2. Podzielna przez 2\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 3. Kalkulator\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 4. R¢wnanie kwadratowe\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L3. 5. Pory roku\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 1. Przedziaˆy\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 2. Czy jest dzielnikiem\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 3. Parzysta lub nieparzysta\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 4. Zakres wiekowy\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 5. Czy dodatnie\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L4. 6. Budowa tr¢jk¥ta\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 1. Suma dop¢ki\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 2. Suma kwadrat¢w\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 3. Pary liczb\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 4. Liczby pierwsze\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 5. Liczby z przedziaˆu\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L5. 6. Cyfry w liczbie\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 1. Wypisywanie tablicy\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 2. —rednia warto˜†\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 3. K-ty elemen\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 4. Odwr¢† kolejno˜†\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L6. 5. Wi©ksze czy mniejsze\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 1. Pot©gowanie\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 2. Mniejsza warto˜† bezwzgl©dna\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 3. Czy uporz¥dkowane\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 4. Zamiana element¢w\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L7. 5. Mno¾enie liczb\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 1. Warto˜† ci¥gu Fibonacciego\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 2. Parzysta rekurencja\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 3. Silnia\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 4. Usuwanie blok¢w\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L8. 5. Odwr¢† kolejno˜† rekurencyjnie\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 1. Koniunkcja prostok¥t¢w\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 2. Suma godzin\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 3. Tablica\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\bin\
+	                   2	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 4. Wzrost\obj\Debug\
+	                   4	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\bin\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\bin\Debug\
+	                   0	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\obj\
+	                   1	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\Podstawy programowania\L9. 5. Sklep z literami\obj\Debug\
+	                   3	G:\Pliki\Technik Programista\Programowanie\cpp\umcs_2025-2026\template-umcs\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       299         0       299         0         0         3
+   Files :       339         0       339         0         0         2
+   Bytes :   11.24 m         0   11.24 m         0         0       320
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:32
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:32
+   Source = G:\Pliki\Technik Programista\Programowanie\python\
+     Dest : E:\Pliki\Projects\python\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Programowanie\python\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Choinkonatoinator\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Generator_Haseˆ\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\GRARPG\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Kalkulator\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Kostka\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Logowanie\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Matryce\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\QUIZ\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Wisielec\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Zamianoinator\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\Zgadywator\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     257	README.md
+	                   0	G:\Pliki\Technik Programista\Programowanie\python\klasa1\
+	*EXTRA Dir        -1	E:\Pliki\Projects\python\klasa1\2026.01.14\
+	                   1	G:\Pliki\Technik Programista\Programowanie\python\klasa1\.vscode\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.10.02\
+	                   6	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.10.09\
+	                   2	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.10.23\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.06\
+	                   2	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.13\
+	                   3	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.20 - sprawdzian1\
+	                   7	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.11.27\
+	                   3	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.12.17\
+	                   3	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2025.9.25\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2026.01.07\
+	                   5	G:\Pliki\Technik Programista\Programowanie\python\klasa1\2026.01.21\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        14         0        14         0         0        13
+   Files :        47         0        47         0         0         2
+   Bytes :    12.2 k         0    12.2 k         0         0       323
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:32
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:33
+   Source = G:\Pliki\Technik Programista\Strony internetowe\
+     Dest : E:\Pliki\Projects\websites\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\
+	*EXTRA Dir        -1	E:\Pliki\Projects\websites\.git\
+	*EXTRA Dir        -1	E:\Pliki\Projects\websites\calculator\
+	  *EXTRA File 		      66	.gitattributes
+	  *EXTRA File 		     203	README.md
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\klasa1\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css\img\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css\pliki\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\css_zadanie\
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_1\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_2\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_3\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_4\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_5\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\formularze\zadanie6_7\
+	                   4	G:\Pliki\Technik Programista\Strony internetowe\klasa1\grafika\
+	                  10	G:\Pliki\Technik Programista\Strony internetowe\klasa1\grafika\galeria\
+	                   9	G:\Pliki\Technik Programista\Strony internetowe\klasa1\grafika\images\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\inf03_2025_06_01\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kartka_˜wi¥teczna\
+	                   4	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kartka_˜wi¥teczna\images\
+	                   0	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\audio\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\obrazy\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\skrypty\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\skrypty\skrypty2\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\kitku\video\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\listy\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\Moja Strona\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\opony\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\projekt_nawigacja\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\projekt_nawigacja\obrazy\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\projekt_nawigacja\pliki\
+	                   4	G:\Pliki\Technik Programista\Strony internetowe\klasa1\przychodnia Medica\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\pseudo\
+	                   7	G:\Pliki\Technik Programista\Strony internetowe\klasa1\sklep internetowy\
+	                   3	G:\Pliki\Technik Programista\Strony internetowe\klasa1\szkolenia\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tabele\
+	                   2	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie1\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie2\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie3\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie4\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie5\
+	                   1	G:\Pliki\Technik Programista\Strony internetowe\klasa1\tekst\Zadanie6\
+	                   6	G:\Pliki\Technik Programista\Strony internetowe\klasa1\zwierz©ta\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        44         0        44         0         0         2
+   Files :        99         0        99         0         0         2
+   Bytes :   45.16 m         0   45.16 m         0         0       269
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:33
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:33
+   Source = G:\Pliki\Technik Programista\BHP\
+     Dest : E:\Pliki\Projects\BHP\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\BHP\
+	                   3	G:\Pliki\Technik Programista\BHP\Ergonomia postawy podczas pracy\
+	                   5	G:\Pliki\Technik Programista\BHP\Laurka\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         0         3         0         0         0
+   Files :         8         0         8         0         0         0
+   Bytes :    2.37 m         0    2.37 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:33
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:33
+   Source = G:\Pliki\Technik Programista\Podstawy Informatyki\
+     Dest : E:\Pliki\Projects\Podstawy informatyki\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Podstawy Informatyki\
+	                   1	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\
+	                  18	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\prezentacja - facebook\
+	                   2	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\wizyt¢wka - Merry Christmass!\
+	                   3	G:\Pliki\Technik Programista\Podstawy Informatyki\klasa1\wizyt¢wka - nauczyciel j©zyk¢w obcych\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         0         5         0         0         0
+   Files :        24         0        24         0         0         0
+   Bytes :   75.17 m         0   75.17 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:33
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:33
+   Source = G:\Pliki\Technik Programista\Informatyka\
+     Dest : E:\Pliki\Projects\Informatyka\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Informatyka\
+	                   0	G:\Pliki\Technik Programista\Informatyka\klasa1\
+	                   8	G:\Pliki\Technik Programista\Informatyka\klasa1\Excel\
+	                   0	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\
+	                   1	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\1p\
+	                   1	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\klasa1p\
+	                   1	G:\Pliki\Technik Programista\Informatyka\klasa1\Tworzenie urzytkownik¢w\prog1p\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         0         7         0         0         0
+   Files :        11         0        11         0         0         0
+   Bytes :   332.5 k         0   332.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:33
+
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 27 January 2026 14:39:33
+   Source = G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty\
+     Dest : E:\Pliki\Projects\Przygotowanie do zawodu programisty\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+	                   0	G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty\
+	                   2	G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty\klasa1\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         0         2         0         0         0
+   Files :         2         0         2         0         0         0
+   Bytes :    29.5 k         0    29.5 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 27 January 2026 14:39:33
+
+[14:39:33.30] Backup finished 
+[14:39:33.30] GitHub sync start 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\CAVALAD 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\cpp 
+[main d5a65e1] Auto backup 27/01/2026 14:39:33.31
+ 1 file changed, 149 insertions(+)
+ create mode 100644 klasa1/samochody/samochody.sql
+[14:39:33.31] Git synced: E:\Pliki\Projects\databases 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\Fiszki 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\Fred 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\Portfolio 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\python 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\Qred 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\Relax-Skarpety 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[14:39:33.31] WARNING: Git commit failed for E:\Pliki\Projects\websites 
