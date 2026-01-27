@@ -3,7 +3,7 @@ from sonoff_manager import SonoffManager
 import logging
 import os
 
-logging.basicConfig(filename=r"C:\Scripts\led\led_off.log",
+logging.basicConfig(filename=r"E:\Scripts\led\led_off.log",
                     level=logging.INFO,
                     format="%(asctime)s %(message)s")
 
