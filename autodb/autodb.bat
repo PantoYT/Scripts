@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 
 set BASEDIR=G:\Pliki\Technik Programista\Bazy Danych
-set MYSQL=C:\xampp\mysql\bin\mysql.exe
+set MYSQL=E:\xampp\mysql\bin\mysql.exe
 set USER=root
 set PASS=
 

@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 set SOURCE=E:\Pliki\Projects\websites
-set DEST=C:\xampp\htdocs\myfiles
+set DEST=E:\xampp\htdocs\myfiles
 
 for /r "%SOURCE%" %%F in (*.php) do (
     set "FULLDIR=%%~dpF"
