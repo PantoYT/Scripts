@@ -1,4 +1,21 @@
 @echo off
+
+REM Self-hide the console window
+if not defined HIDDEN (
+    set HIDDEN=1
+    start "" /B /MIN wscript.exe //nologo "%~dpn0.vbs"
+    exit /b
+)
+
+REM Create temporary VBS to hide this script
+echo Set objShell = CreateObject("WScript.Shell") > "%TEMP%\hidecmd.vbs"
+echo objShell.Run "cmd /c """"%~f0"""" HIDDEN", 0, False >> "%TEMP%\hidecmd.vbs"
+if not "%1"=="HIDDEN" (
+    wscript.exe "%TEMP%\hidecmd.vbs"
+    del "%TEMP%\hidecmd.vbs"
+    exit /b
+)
+
 setlocal EnableDelayedExpansion
 title USB Sync + Git Auto Push
 
