@@ -1,5 +1,6 @@
 ' ===================================================
-' Script Launcher Master
+' Script Launcher Master - Unified Control
+' Usage: master_launcher.vbs [/start|/stop|/restart|/silent]
 ' ===================================================
 Option Explicit
 
@@ -20,18 +21,21 @@ configPath = scriptDir & "\config.ini"
 logPath = scriptDir & "\launcher.log"
 
 If WScript.Arguments.Count > 0 Then
-    mode = LCase(WScript.Arguments(0))
+    mode = LCase(Trim(WScript.Arguments(0)))
 Else
     mode = "gui"
 End If
 
 Select Case mode
     Case "/start", "-start", "start"
-        StartAllMode()
+        StartAllMode(False)
     Case "/stop", "-stop", "stop"
-        StopAllMode()
+        StopAllMode(False)
     Case "/restart", "-restart", "restart"
-        RestartMode()
+        RestartMode(False)
+    Case "/silent", "-silent", "silent"
+        REM Silent mode - start all without showing messages
+        StartAllMode(True)
     Case Else
         GuiMode()
 End Select
@@ -41,12 +45,14 @@ WScript.Quit 0
 ' ===================================================
 ' Start all AutoStart scripts
 ' ===================================================
-Sub StartAllMode()
+Sub StartAllMode(silentMode)
     Dim sections, section, config
     Dim autoStart, scriptType, scriptPath, processName, processSearch
     Dim launched, restarted
     
-    WriteLog logPath, "=== START ALL MODE ==="
+    If Not silentMode Then
+        WriteLog logPath, "=== START ALL MODE ==="
+    End If
     
     launched = 0
     restarted = 0
@@ -71,14 +77,18 @@ Sub StartAllMode()
                 End If
                 
                 If IsProcessRunning(processName, processSearch) Then
-                    WriteLog logPath, section & " - Already running, restarting..."
+                    If Not silentMode Then
+                        WriteLog logPath, section & " - Already running, restarting..."
+                    End If
                     KillProcess processName, processSearch
                     WScript.Sleep 1000
                     restarted = restarted + 1
                 End If
                 
                 If LaunchScript(scriptType, scriptPath) Then
-                    WriteLog logPath, section & " - Started successfully"
+                    If Not silentMode Then
+                        WriteLog logPath, section & " - Started successfully"
+                    End If
                     launched = launched + 1
                 Else
                     WriteLog logPath, section & " - FAILED to start"
@@ -90,12 +100,16 @@ Sub StartAllMode()
     Next
     
     WriteLog logPath, "Complete: " & launched & " launched, " & restarted & " restarted"
+    
+    If Not silentMode And (launched > 0 Or restarted > 0) Then
+        MsgBox "Started " & launched & " script(s), restarted " & restarted, vbInformation, "Done"
+    End If
 End Sub
 
 ' ===================================================
 ' Stop all scripts
 ' ===================================================
-Sub StopAllMode()
+Sub StopAllMode(silentMode)
     Dim sections, section, config
     Dim processName, processSearch, killed, totalKilled
     
@@ -128,21 +142,28 @@ Sub StopAllMode()
     
     If totalKilled > 0 Then
         WriteLog logPath, "Stop complete: " & totalKilled & " process(es) terminated"
-        MsgBox "Stopped " & totalKilled & " script(s)", vbInformation, "Done"
+        If Not silentMode Then
+            MsgBox "Stopped " & totalKilled & " script(s)", vbInformation, "Done"
+        End If
     Else
         WriteLog logPath, "No scripts were running"
-        MsgBox "No scripts were running", vbInformation, "Done"
+        If Not silentMode Then
+            MsgBox "No scripts were running", vbInformation, "Done"
+        End If
     End If
 End Sub
 
 ' ===================================================
 ' Restart all
 ' ===================================================
-Sub RestartMode()
+Sub RestartMode(silentMode)
     WriteLog logPath, "=== RESTART MODE ==="
-    StopAllMode()
+    StopAllMode(silentMode)
     WScript.Sleep 2000
-    StartAllMode()
+    StartAllMode(silentMode)
+    If Not silentMode Then
+        MsgBox "Restarted all scripts", vbInformation, "Done"
+    End If
 End Sub
 
 ' ===================================================
@@ -203,15 +224,13 @@ Sub GuiMode()
     
     Select Case choice
         Case "A"
-            StartAllMode()
-            MsgBox "Started all scripts", vbInformation, "Done"
+            StartAllMode(False)
             
         Case "S"
-            StopAllMode()
+            StopAllMode(False)
             
         Case "R"
-            RestartMode()
-            MsgBox "Restarted all scripts", vbInformation, "Done"
+            RestartMode(False)
             
         Case "Q"
             WScript.Quit 0
