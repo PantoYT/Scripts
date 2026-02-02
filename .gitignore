@@ -1,2 +1,1 @@
-/logs
-launcher/launcher.log
+*.log
