@@ -1,12 +1,5 @@
 @echo off
 
-REM Self-hide the console window
-if not defined HIDDEN (
-    set HIDDEN=1
-    start "" /B /MIN wscript.exe //nologo "%~dpn0.vbs"
-    exit /b
-)
-
 REM Create temporary VBS to hide this script
 echo Set objShell = CreateObject("WScript.Shell") > "%TEMP%\hidecmd.vbs"
 echo objShell.Run "cmd /c """"%~f0"""" HIDDEN", 0, False >> "%TEMP%\hidecmd.vbs"
@@ -35,7 +28,7 @@ set DST_AHK=G:\Pliki\Inne\AutoHotkey
 set SRC_SCRIPTS=E:\Scripts
 set DST_SCRIPTS=G:\Pliki\Inne\Scripts
 
-set SRC_DB=G:\Pliki\Technik Programista\Bazy Danych
+set SRC_DB=G:\Pliki\Technik Programista\BazyDanych
 set DST_DB=E:\Pliki\Projects\databases
 
 set SRC_CPP=G:\Pliki\Technik Programista\Programowanie\cpp
@@ -44,20 +37,20 @@ set DST_CPP=E:\Pliki\Projects\cpp
 set SRC_PY=G:\Pliki\Technik Programista\Programowanie\python
 set DST_PY=E:\Pliki\Projects\python
 
-set SRC_WEB=G:\Pliki\Technik Programista\Strony internetowe
+set SRC_WEB=G:\Pliki\Technik Programista\StronyInternetowe
 set DST_WEB=E:\Pliki\Projects\websites
 
 set SRC_BHP=G:\Pliki\Technik Programista\BHP
 set DST_BHP=E:\Pliki\Projects\BHP
 
-set SRC_POD_INF=G:\Pliki\Technik Programista\Podstawy Informatyki
-set DST_POD_INF=E:\Pliki\Projects\Podstawy informatyki
+set SRC_POD_INF=G:\Pliki\Technik Programista\PodstawyInformatyki
+set DST_POD_INF=E:\Pliki\Projects\PodstawyInformatyki
 
 set SRC_INF=G:\Pliki\Technik Programista\Informatyka
 set DST_INF=E:\Pliki\Projects\Informatyka
 
-set SRC_PRZYGOT=G:\Pliki\Technik Programista\Przygotowanie do zawodu programisty
-set DST_PRZYGOT=E:\Pliki\Projects\Przygotowanie do zawodu programisty
+set SRC_PRZYGOT=G:\Pliki\Technik Programista\PrzygotowanieZawodu
+set DST_PRZYGOT=E:\Pliki\Projects\PrzygotowanieZawodu
 
 set GIT_ROOT=E:\Pliki\Projects
 
