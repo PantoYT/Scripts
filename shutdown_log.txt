@@ -1,6 +1,14 @@
-2026-02-11 23:56:27,554 [INFO] ============================================================
-2026-02-11 23:56:27,554 [INFO] Safe System Shutdown Started
-2026-02-11 23:56:27,555 [INFO] ============================================================
-2026-02-11 23:56:29,515 [INFO] [STEP 1/5] Turning off LED lights...
-2026-02-11 23:56:32,344 [WARNING] LED script returned error: 1
-2026-02-11 23:56:33,344 [INFO] [STEP 2/5] Stopping USB sync processes...
+============================================ 
+Safe Shutdown Started: 11/02/2026 23:59:39.33 
+============================================ 
+[STEP 1/5] Turning off LED lights... 
+Running LED shutdown script at 23:59:39.34 
+[SUCCESS] LED script completed successfully 
+[STEP 2/5] Stopping AutoSync processes at 23:59:45.12 
+[WARNING] AutoSync script not found 
+[STEP 3/5] Stopping XAMPP services at 23:59:45.13 
+[SUCCESS] XAMPP services stopped 
+[STEP 4/5] Gracefully closing applications at 23:59:45.24 
+Closing user applications... 
+Force closing remaining applications... 
+Syncing file system... 

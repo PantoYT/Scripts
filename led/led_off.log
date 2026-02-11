@@ -143,3 +143,70 @@ Traceback (most recent call last):
     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
            ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
+2026-02-11 23:58:22,556 [INFO] ==================================================
+2026-02-11 23:58:22,556 [INFO] LED OFF script started
+2026-02-11 23:58:22,557 [INFO] ==================================================
+2026-02-11 23:58:22,557 [INFO] Logging in to eWeLink...
+2026-02-11 23:58:24,760 [INFO] Discovering devices...
+2026-02-11 23:58:24,839 [INFO] Sending OFF command to Ledy Wojtek
+2026-02-11 23:58:25,112 [ERROR] Error: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "E:\Scripts\led\led_off.py", line 61, in turn_off_led
+    print(f"\u2713 Wy³¹czono {device['name']}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\halas\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2026-02-11 23:58:25,115 [ERROR] Fatal error: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
+Traceback (most recent call last):
+  File "E:\Scripts\led\led_off.py", line 61, in turn_off_led
+    print(f"\u2713 Wy³¹czono {device['name']}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\halas\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Scripts\led\led_off.py", line 87, in main
+    success = asyncio.run(turn_off_led())
+  File "C:\Users\halas\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\halas\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\halas\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "E:\Scripts\led\led_off.py", line 71, in turn_off_led
+    print(f"\u2717 Error: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\halas\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
+2026-02-11 23:58:46,607 [INFO] ==================================================
+2026-02-11 23:58:46,607 [INFO] LED OFF script started
+2026-02-11 23:58:46,607 [INFO] ==================================================
+2026-02-11 23:58:46,608 [INFO] Logging in to eWeLink...
+2026-02-11 23:58:48,820 [INFO] Discovering devices...
+2026-02-11 23:58:48,895 [INFO] Sending OFF command to Ledy Wojtek
+2026-02-11 23:58:49,112 [INFO] Successfully turned OFF Ledy Wojtek
+2026-02-11 23:59:17,596 [INFO] ==================================================
+2026-02-11 23:59:17,596 [INFO] LED OFF script started
+2026-02-11 23:59:17,596 [INFO] ==================================================
+2026-02-11 23:59:17,597 [INFO] Logging in to eWeLink...
+2026-02-11 23:59:19,808 [INFO] Discovering devices...
+2026-02-11 23:59:19,982 [INFO] Sending OFF command to Ledy Wojtek
+2026-02-11 23:59:20,208 [INFO] Successfully turned OFF Ledy Wojtek
+2026-02-11 23:59:39,761 [INFO] ==================================================
+2026-02-11 23:59:39,761 [INFO] LED OFF script started
+2026-02-11 23:59:39,761 [INFO] ==================================================
+2026-02-11 23:59:39,762 [INFO] Logging in to eWeLink...
+2026-02-11 23:59:42,000 [INFO] Discovering devices...
+2026-02-11 23:59:42,080 [INFO] Sending OFF command to Ledy Wojtek
+2026-02-11 23:59:42,251 [INFO] Successfully turned OFF Ledy Wojtek
