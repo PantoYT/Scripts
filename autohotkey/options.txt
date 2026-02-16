@@ -1,0 +1,10 @@
+VolUp=shift+8
+VolDown=shift+2
+PrevTrack=shift+4
+NextTrack=shift+6
+PlayPause=shift+5
+Back5s=shift+1
+Forward5s=shift+3
+Like=shift+7
+Quit=shift+9
+Ctrl+shift+alt+z=workspace_main
