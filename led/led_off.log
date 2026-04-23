@@ -210,3 +210,24 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 
 2026-02-11 23:59:42,000 [INFO] Discovering devices...
 2026-02-11 23:59:42,080 [INFO] Sending OFF command to Ledy Wojtek
 2026-02-11 23:59:42,251 [INFO] Successfully turned OFF Ledy Wojtek
+2026-04-17 16:28:39,069 [INFO] ==================================================
+2026-04-17 16:28:39,069 [INFO] LED OFF script started
+2026-04-17 16:28:39,070 [INFO] ==================================================
+2026-04-17 16:28:39,070 [INFO] Logging in to eWeLink...
+2026-04-17 16:28:41,499 [INFO] Discovering devices...
+2026-04-17 16:28:41,595 [INFO] Sending OFF command to Ledy Wojtek
+2026-04-17 16:28:41,854 [INFO] Successfully turned OFF Ledy Wojtek
+2026-04-19 00:59:40,814 [INFO] ==================================================
+2026-04-19 00:59:40,825 [INFO] LED OFF script started
+2026-04-19 00:59:40,825 [INFO] ==================================================
+2026-04-19 00:59:40,842 [INFO] Logging in to eWeLink...
+2026-04-19 00:59:43,127 [INFO] Discovering devices...
+2026-04-19 00:59:43,242 [INFO] Sending OFF command to Ledy Wojtek
+2026-04-19 00:59:43,553 [INFO] Successfully turned OFF Ledy Wojtek
+2026-04-19 00:59:54,596 [INFO] ==================================================
+2026-04-19 00:59:54,596 [INFO] LED OFF script started
+2026-04-19 00:59:54,596 [INFO] ==================================================
+2026-04-19 00:59:54,597 [INFO] Logging in to eWeLink...
+2026-04-19 00:59:56,874 [INFO] Discovering devices...
+2026-04-19 00:59:56,975 [INFO] Sending OFF command to Ledy Wojtek
+2026-04-19 00:59:57,255 [INFO] Successfully turned OFF Ledy Wojtek

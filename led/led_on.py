@@ -58,17 +58,17 @@ async def turn_on_led():
             device = online_switches[0]
             logging.info(f"Sending ON command to {device['name']}")
             await manager.turn_on(device["deviceid"])
-            print(f"✓ Włączono {device['name']}")
+            print(f"Włączono {device['name']}")
             logging.info(f"Successfully turned ON {device['name']}")
             return True
         else:
             logging.warning("No online devices found")
-            print("⚠ Brak online urządzeń")
+            print("Brak online urządzeń")
             return False
             
     except Exception as e:
         logging.error(f"Error: {e}", exc_info=True)
-        print(f"✗ Error: {e}")
+        print(f"Error: {e}")
         return False
     finally:
         await manager.close()
@@ -92,7 +92,7 @@ def main():
         sys.exit(1)
     except Exception as e:
         logging.error(f"Fatal error: {e}", exc_info=True)
-        print(f"✗ Fatal error: {e}")
+        print(f"Fatal error: {e}")
         sys.exit(1)
 
 
